@@ -1,4 +1,6 @@
-# Dashboard_rechazos
+# 📊 Dashboard Rechazos
+
+# 📌 Descripción general del proyecto
 
 
 
