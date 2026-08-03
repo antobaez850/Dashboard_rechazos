@@ -24,6 +24,7 @@ El presente tablero tiene como finalidad centralizar y estandarizar el monitoreo
 
 • Detectar patrones sistémicos vinculados a bancos emisores específicos, canales de cobro o tipos de cuenta que presenten tasas de rechazo anómalas.
 <hr/>
+
 ### ⚙️ Detalle de la implementación
 
 <table>
